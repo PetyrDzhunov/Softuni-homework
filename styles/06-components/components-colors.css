@@ -9,6 +9,10 @@
     flex-basis: 30%;
 }
 
+.c-colors--bigger-size {
+    flex-basis: 45%;
+}
+
 .colors__heading {
     font-size: 26px;
     margin: 0;
@@ -136,4 +140,44 @@
 
 .c-colors__grey--900 {
     background-color: rgb(24, 24, 24);
+}
+
+.c-colors__green--50 {
+    background-color: rgb(229, 244, 232);
+}
+
+.c-colors__green--100 {
+    background-color: rgb(192, 228, 198);
+}
+
+.c-colors__green--200 {
+    background-color: rgb(151, 211, 162);
+}
+
+.c-colors__green--300 {
+    background-color: rgb(106, 194, 125);
+}
+
+.c-colors__green--400 {
+    background-color: rgb(70, 182, 97);
+}
+
+.c-colors__green--500 {
+    background-color: rgb(18, 169, 69);
+}
+
+.c-colors__green--600 {
+    background-color: rgb(2, 154, 60)
+}
+
+.c-colors__green--700 {
+    background-color: rgb(0, 136, 49);
+}
+
+.c-colors__green--800 {
+    background-color: rgb(0, 119, 38);
+}
+
+.c-colors__green--900 {
+    background-color: rgb(0, 89, 18);
 }
