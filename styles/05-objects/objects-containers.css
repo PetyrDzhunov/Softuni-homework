@@ -1,0 +1,14 @@
+.o-column-container {
+    display: flex;
+    flex-flow: column wrap;
+}
+
+.o-row-container {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.o-top-section-wrapper {
+    background-image: url("https://image.shutterstock.com/image-photo/artistic-cloudy-sky-pastel-gradient-260nw-767776375.jpg");
+    background-size: cover;
+}
