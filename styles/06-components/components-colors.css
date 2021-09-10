@@ -181,3 +181,43 @@
 .c-colors__green--900 {
     background-color: rgb(0, 89, 18);
 }
+
+.c-colors__red--50 {
+    background-color: rgb(255, 235, 239);
+}
+
+.c-colors__red--100 {
+    background-color: rgb(255, 205, 211);
+}
+
+.c-colors__red--200 {
+    background-color: rgb(247, 153, 155);
+}
+
+.c-colors__red--300 {
+    background-color: rgb(240, 112, 115);
+}
+
+.c-colors__red--400 {
+    background-color: rgb(252, 76, 80);
+}
+
+.c-colors__red--500 {
+    background-color: rgb(255, 54, 50);
+}
+
+.c-colors__red--600 {
+    background-color: rgb(243, 43, 51);
+}
+
+.c-colors__red--700 {
+    background-color: rgb(225, 30, 45);
+}
+
+.c-colors__red--800 {
+    background-color: rgb(212, 19, 37);
+}
+
+.c-colors__red--900 {
+    background-color: rgb(197, 0, 24);
+}
